@@ -1,4 +1,4 @@
-package com.nodearchive.springapp;
+package com. pogocal.springapp;
 
 import java.text.DateFormat;
 import java.util.Date;
